@@ -1,4 +1,4 @@
-## Prazer me chamo carlos e estou me aventurando no mundo da programação
+## Carlos Henrique
 - 📖 Estudante de análise e desenvolvimento de sistemas 3° Período
 - 🌐 Apaixonado por desenvolvimento web 
 <div style="display: inline_block"><br>
