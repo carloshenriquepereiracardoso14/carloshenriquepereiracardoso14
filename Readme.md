@@ -14,7 +14,4 @@
   <a href = "mailto:carloscardosoesse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br>
   <br>
-  <img src="https://media.giphy.com/media/Ih7T4K2qBghhPr58Dd/giphy.gif" style="
-    width:50px;
-    ">
 </div>
